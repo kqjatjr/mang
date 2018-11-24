@@ -1,0 +1,26 @@
+.Mission01 {
+ color: red;
+ font-weight: bolder;
+}
+
+.item01 {
+  order: 1;
+}
+
+.item02 {
+  order: 1;
+}
+
+.item03 {
+  order: 1;
+}
+
+.time {
+  position: relative;
+  display: inline-block;
+ 
+  width: 100%;
+  padding: 1em;
+  background: aquamarine;
+
+}
